@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Hôm nay là một ngày đặc biệt và chính cậu cũng vậy!" //Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc mừng sinh nhật người tốt bụng và vô tri nhất tớ từng gặp. Tuổi mới chúc cậu có thật nhiều niềm vui và hạnh phúc trong cuộc sống cũng như gặt hái được nhiều thành công trên con đường học tập của mình. Cuốn sách tớ tặng cậu là tất cả những lời tớ muốn gửi đến cậu đó! Sinh nhật vui vẻ nha Dung🐼. :)(((( " //Nội dung của bức thư
+const mainContentLetter = "Chúc mừng sinh nhật người tốt bụng và vô tri nhất tớ từng gặp. Tuổi mới chúc cậu có thật nhiều niềm vui và hạnh phúc trong cuộc sống cũng như gặt hái được nhiều thành công trên con đường học tập của mình. Sinh nhật vui vẻ nha Dung🐼. :)(((( " //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
